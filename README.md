@@ -85,8 +85,7 @@ I'm a recent graduate from {school} with experience in [your relevant experience
 
 I've attached my resume for your reference. I'd be very grateful for any insights you could share!
 
-Thank you for your time,
-[Your Name]
+Thank you for your time.
 ```
 
 ### Informational Interview Request
@@ -98,8 +97,7 @@ I'm a student at {school} interested in pursuing a career in {industry}. I came 
 
 Would you be willing to spare 15-20 minutes for a quick call to discuss your career path and any advice you might have for someone looking to enter the field? I'm particularly interested in learning more about [specific aspect of their work].
 
-Thank you for considering,
-[Your Name]
+Thank you for considering.
 ```
 
 ## Limitations
