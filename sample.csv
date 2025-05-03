@@ -1,0 +1,6 @@
+first_name,last_name,full_name,company,position,industry,role,school,mutual_connections,graduation_year
+Alex,Johnson,Alex Johnson,Microsoft,Senior Software Engineer,Technology,Software Engineer,Stanford University,3,2018
+Priya,Patel,Priya Patel,Google,Product Manager,Technology,Product Manager,UC Berkeley,5,2019
+Michael,Chen,Michael Chen,Amazon,Technical Program Manager,E-commerce,Program Manager,MIT,2,2017
+Sarah,Williams,Sarah Williams,Deloitte,Management Consultant,Consulting,Business Analyst,Harvard Business School,4,2020
+Jordan,Smith,Jordan Smith,Netflix,Data Scientist,Entertainment,Data Analyst,Carnegie Mellon,1,2021
